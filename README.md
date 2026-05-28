@@ -1,6 +1,6 @@
 # Password Helper 🔐
 
-An offline-first, privacy-focused tool to quickly generate passwords for password-protected Indian financial and government documents (like Bank Statements, Aadhaar, PAN, etc.).
+An offline-first, privacy-focused tool to quickly generate passwords for password-protected Indian financial and government documents (like Bank Statements, Aadhaar, PAN, etc.). [Try Here](https://dyal96.github.io/Password-Helper/)
 
 ![Password Helper Interface](https://img.shields.io/badge/Privacy-Offline--First-green?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge)
